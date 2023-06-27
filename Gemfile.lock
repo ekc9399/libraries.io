@@ -443,7 +443,7 @@ GEM
     rake-compiler (1.0.7)
       rake
     rb-readline (0.5.5)
-    rdoc (6.1.1)
+    rdoc (6.1.2.1)
     redis (4.5.1)
     regexp_parser (2.8.0)
     representable (3.0.4)
